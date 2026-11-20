@@ -1,0 +1,7 @@
+{
+ "version": 1,
+ "kdf": "PBKDF2-SHA256",
+ "iterationen": 600000,
+ "salz": "ME/Pe2sJ39Hylzc/8QJ29Q==",
+ "pruefung": "Q2AxMXfhUhKt8OESDL072Mf+9DWngvCZyTf1s70u3EXSKVIgRVzil5meN/yZ"
+}

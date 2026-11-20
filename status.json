@@ -1,0 +1,14 @@
+{
+ "aktualisiert": "2026-11-20T14:52+01:00",
+ "folgen": [
+  {
+   "datum": "2026-11-20",
+   "typ": "morgen",
+   "dauer_sek": 847,
+   "bytes": 6778028,
+   "woerter": 1703,
+   "engine": "edge",
+   "bau_sek": 74
+  }
+ ]
+}
